@@ -1,0 +1,95 @@
+.happy_section {
+    margin: 0 auto;
+    // height: 1000px;
+    border: 2px solid red;
+.container {
+    background: url(../img/bigman.png);
+    background-size: cover;
+
+    .title {
+        font-size: 30px;
+        line-height: 26px;
+        color: #ffffff;
+        font-weight: 400;
+        font-family: "Aleo";
+        text-align: center;
+       margin: 50px auto;
+    }
+
+.wrap {
+  
+// margin-top: 150px;
+height: 25%;
+// border: 2px solid red;
+margin-bottom: 100px;
+
+@media only screen and (min-width:768px) and (max-width: 2440px)  {
+ 
+    display: flex;
+ }
+
+
+.part-1{
+    // border: 2px solid red;
+    .element {
+    }
+
+}
+
+.part-2 {
+background-color:#333333;
+
+.title-wrap {
+    font-size: 20px;
+line-height: 26px;
+color: #fefefe;
+font-family: "Josefin Sans";
+padding-top: 10px;
+text-align: left;
+margin: auto 20px;
+}
+
+.text-wrap {
+    font-size: 13px;
+    // line-height: 26px;
+    color: white;
+    font-family: "Font Awesome";
+    text-align: left;
+    padding-bottom:15px;
+    margin:auto 10px;
+}
+
+
+}
+
+}
+
+.foot {
+
+    background-color:#333333;
+.logo {
+    font-size: 24px;
+    letter-spacing: 3px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Josefin Sans";
+text-align: center;
+}
+.mini-text {
+font-size: 16px;
+letter-spacing: 2px;
+line-height: 26px;
+color: #ffffff;
+font-family: "Josefin Sans";
+text-align: center;
+}
+
+
+}
+
+
+
+
+}
+}
+
